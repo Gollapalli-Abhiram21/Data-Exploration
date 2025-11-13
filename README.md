@@ -1,7 +1,5 @@
 # Adult Dataset - Data Exploration and Analysis
 
-## 📊 Project Overview
-
 This project performs comprehensive data exploration and analysis on the **Adult Census Income Dataset** to help a company study demographic data and make predictions about the earning potential of the population. The dataset contains demographic and employment information that needs to be cleaned and analyzed for data-driven competitive advantage.
 
 ## 🎯 Project Objectives
